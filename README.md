@@ -32,5 +32,8 @@ Unfortunately, the flower images dataset used for this application is too large 
 -these folders should contain numbered subfolders. Each unique number corresponds to a specific category, clarified in the json file
 (please view the cat_to_name.json file included in this Github repository to see the format).
 
+THE COMMAND LINE APPLICATION:
+The command line application (Part 2 of this Project) is located in another repository:
+https://github.com/ebaung/Udacity-AI-Programming-with-Python-Final-Project-Part2
 
 Eugene Baung
